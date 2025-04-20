@@ -1,5 +1,6 @@
 # onlineEducation_frontEnd
 # 在线教育系统_前端
+# 添加了文章系统，并基于支持检索功能
 
 ### install the package
 npm install
